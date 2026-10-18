@@ -1,6 +1,6 @@
 {
-  "v": 12,
-  "msg": " * Redesigned export & main visual screen, added smart export, English lyrics support, and fixed the phantom composition bug.",
+  "v": 13,
+  "msg": " * Redesigned Choose element, Redesing font picker, add logic preset, logic copy, and all nano-micro fixs",
   "url": "https://github.com/HeyHaku/update/releases"
 }
 
